@@ -24,3 +24,10 @@ lundi 18 octobre, 23:00
   - Des balises HTML 5
   - Des liens
 ```
+
+## Structure
+
+  /index.php // contient la structure de base
+  --/accueil.php // page d'accueil
+  --/produits.php // produits
+  --/about.php // page a propos
