@@ -7,6 +7,8 @@
   </head>
   <body>
     <?php include 'components/header.php';?>
-    <h1>Produits</h1>
+    <div class="page-wrapper">
+      <h1>Produits</h1>
+    </div>
   </body>
 </html>

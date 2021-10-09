@@ -1,20 +1,20 @@
+html {
+  width: 1000px;
+  margin: auto;
+}
+body{
+  margin:0;
+}
 * {
   font-family: "Roboto", sans-serif;
 }
 .serif {
   font-family: "Roboto Slab", serif;
 }
-
-nav {
+.row {
+  display: flex;
+  flex-direction: row;
 }
-
-nav ul {
-}
-
-nav li {
-}
-
-nav li a {
-  text-decoration: none;
-  color: #000000;
+.cell {
+  flex: 1;
 }

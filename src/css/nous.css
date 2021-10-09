@@ -1,0 +1,17 @@
+.row {
+  gap: 40px;
+  max-width: 1000px;
+  margin: auto;
+}
+.about-img {
+  cursor: pointer;
+  max-width: 100%;
+  border-radius: 8px;
+}
+section {
+  line-height: 30px;
+  color: #333;
+}
+.caption {
+  margin-top: 10px;
+}
