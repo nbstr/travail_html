@@ -7,6 +7,8 @@ lundi 18 octobre, 23:00
 
 - Vous devez toujours utiliser des fichiers de type .php (pour la partie html)
 
+- Utiliser des [balises HTML5](https://www.htmlgoodies.com/html5/new-tags-in-html5/)
+
 - Créez une site avec un minimum de trois pages :
 
 ```
