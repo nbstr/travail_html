@@ -27,7 +27,9 @@ lundi 18 octobre, 23:00
 
 ## Structure
 
+```
   /index.php // contient la structure de base
   --/accueil.php // page d'accueil
   --/produits.php // produits
   --/about.php // page a propos
+```
